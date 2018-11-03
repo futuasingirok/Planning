@@ -1,0 +1,17 @@
+\documentclass{article}
+
+\begin{document}
+
+
+\section*{Spiritual}
+
+
+\section*{Physical}
+
+
+\section*{Intellectual}
+
+
+\section*{Financial}
+
+\end{document}
